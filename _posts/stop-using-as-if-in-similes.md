@@ -76,4 +76,3 @@ If your narrator is academic, clinical, or formal, this construction fits their 
 | He looked **as if** he was lost. | He scanned the room **with the desperation** of the lost. | Emotive |
 | It sounded **as if** it was breaking. | It sounded **akin to** breaking glass. | Formal |
 | It felt **as if** it was burning. | It burned, **suggesting** a chemical reaction. | Clinical |
-
