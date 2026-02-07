@@ -77,6 +77,3 @@ If your narrator is academic, clinical, or formal, this construction fits their 
 | It sounded **as if** it was breaking. | It sounded **akin to** breaking glass. | Formal |
 | It felt **as if** it was burning. | It burned, **suggesting** a chemical reaction. | Clinical |
 
----
-
-**Would you like me to help you brainstorm a specific metaphor or "observer perspective" for a difficult sentence in your current draft?**
