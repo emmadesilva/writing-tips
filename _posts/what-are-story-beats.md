@@ -1,7 +1,7 @@
 ---
 title: 'Mastering the "Beat": The Hidden Rhythm Behind Great Writing'
 description: "Confused by what a 'beat' actually is in writing? We break down the 4 types of beats—from dialogue to story structure—to improve your narrative rhythm."
-date: "2025-02-01"
+date: "2025-06-05"
 author: caen
 ---
 
